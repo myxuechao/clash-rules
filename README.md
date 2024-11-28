@@ -10,7 +10,7 @@ clash 自定义规则
 
 - **直连域名列表 chatgpt.yaml**：
   - [https://raw.githubusercontent.com/myxuechao/clash-rules/release/chatgpt.txt](https://raw.githubusercontent.com/myxuechao/clash-rules/release/chatgpt.txt)
-  - [https://cdn.jsdelivr.net/gh/myxuechao/clash-rules@release/chatgpt.yaml](https://cdn.jsdelivr.net/gh/myxuechao/clash-rules@release/chatgpt.txt)
+  - [https://cdn.jsdelivr.net/gh/myxuechao/clash-rules@release/chatgpt.txt](https://cdn.jsdelivr.net/gh/myxuechao/clash-rules@release/chatgpt.txt)
 
 ### 使用方式
 
